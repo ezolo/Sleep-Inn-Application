@@ -1,0 +1,9 @@
+C:\Users\Eva\source\repos\Zolotarev_1\bin\Debug\Zolotarev_1.exe.config
+C:\Users\Eva\source\repos\Zolotarev_1\bin\Debug\Zolotarev_1.exe
+C:\Users\Eva\source\repos\Zolotarev_1\bin\Debug\Zolotarev_1.pdb
+C:\Users\Eva\source\repos\Zolotarev_1\obj\Debug\Zolotarev_1.csprojAssemblyReference.cache
+C:\Users\Eva\source\repos\Zolotarev_1\obj\Debug\Zolotarev_1.Form1.resources
+C:\Users\Eva\source\repos\Zolotarev_1\obj\Debug\Zolotarev_1.Properties.Resources.resources
+C:\Users\Eva\source\repos\Zolotarev_1\obj\Debug\Zolotarev_1.csproj.GenerateResource.cache
+C:\Users\Eva\source\repos\Zolotarev_1\obj\Debug\Zolotarev_1.exe
+C:\Users\Eva\source\repos\Zolotarev_1\obj\Debug\Zolotarev_1.pdb
