@@ -4,7 +4,7 @@
 
 
 ## 📝 What is the Sleep Inn Form?
-> The following application is a registration form for the Sleep Inn hotel. Users will be able to enter: 
+> The following application is a registration form for the Sleep Inn Hotel. Users will be able to enter: 
 -  Guest information 
 -  Room information 
 -  Additional Charges
