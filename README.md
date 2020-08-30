@@ -7,7 +7,7 @@
 > The following application is a registration form for the Sleep Inn Hotel. Users will be able to enter: 
 -  Guest information 
 -  Room information 
--  Additional Charges
+-  Additional charges
 
 ## 👩‍🏫 Application Walk Through
 ### 1️⃣ Main Screen ###
