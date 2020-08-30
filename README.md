@@ -2,6 +2,8 @@
 
 ###### tags: `C#` `VS 16.7`
 
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+
 
 ## 📝 What is the Sleep Inn Form?
 > The following application is a registration form for the Sleep Inn Hotel. Users will be able to enter: 
